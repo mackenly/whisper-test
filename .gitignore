@@ -1,5 +1,4 @@
-in_file.mp3
-input.mp3
-output.txt
-value.txt
+*.mp3
+*.txt
 .idea/
+.env
